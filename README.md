@@ -1,4 +1,4 @@
-# Mechanical_CompetitionArm_Task2
+# Mechanical_CompetitionArm_Task
 
 This repository is for task (2) of the MECHANICAL track of my summer training at Smart-Methods
 
